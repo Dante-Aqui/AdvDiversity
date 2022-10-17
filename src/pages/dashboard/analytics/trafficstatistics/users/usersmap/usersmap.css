@@ -1,0 +1,25 @@
+.mapWrapper {
+    margin: 1rem auto;
+}
+
+.mapWrapper > svg {
+    stroke: #babbff;
+}
+
+.mapWrapper > svg > path {
+    fill: #ced4da;
+    cursor: pointer;
+    outline: none;
+}
+
+.mapWrapper > svg > path:hover {
+    fill: #adb5bd;
+}
+
+.mapWrapper > svg > path[aria-checked='true'] {
+    fill: #727cf5;
+}
+
+.mapWrapper > svg > path:hover[aria-checked='true'] {
+    fill: #0acf97;
+}

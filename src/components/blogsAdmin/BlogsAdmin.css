@@ -1,0 +1,29 @@
+.form-group-blog {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    width: 400px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.form-group-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: auto;
+    height: 250px;
+}
+
+.blogAdminCard {
+    padding: 12px;
+}
+
+.form-title-card {
+    margin-top: 24px;
+    text-align: center;
+}

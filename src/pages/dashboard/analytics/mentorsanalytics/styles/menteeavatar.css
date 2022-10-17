@@ -1,0 +1,36 @@
+.avatar-container {
+    cursor: pointer;
+    width: 260px;
+}
+
+.mentee-avatar-container {
+    cursor: pointer;
+    position: relative;
+    width: fit-content;
+    margin-left: 5px;
+}
+
+.mentee-avatar-picture {
+    width: 40px;
+    height: 40px;
+    transition: all .15s ease-in-out;
+}
+
+.mentee-avatar-tooltip {
+    width: max-content;
+    display: none;
+    position: absolute;
+    left: -15px;
+}
+
+.mentee-avatar-container:hover {
+    cursor: pointer;
+}
+
+.mentee-avatar-container:hover .mentee-avatar-tooltip {
+    display: block;
+}
+
+.mentee-avatar-container:hover .mentee-avatar-picture {
+    filter: brightness(50%);
+}

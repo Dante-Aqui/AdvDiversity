@@ -1,0 +1,44 @@
+.story-background-img {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://bit.ly/3OHMugO') top/cover no-repeat;
+    margin-bottom: 200px;
+    margin-left: -500px;
+    margin-right: -500px;
+}
+
+.story-img-header {
+    font-weight: bolder;
+    font-size: 100px;
+    color: black;
+    justify-content: center;
+}
+
+.story-card-styling {
+    color: rgb(79, 78, 78);
+    margin-top: -100px;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.story-form-header-font {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.story-form-body-font {
+    font-size: 22px;
+}
+
+.story-form-label-font {
+    font-size: 18px;
+}
+
+.story-form-input-font {
+    font-size: 18px;
+}

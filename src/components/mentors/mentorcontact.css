@@ -1,0 +1,15 @@
+.mentor-contact-card {
+   padding: 24px;
+}
+
+.mentor-contact-card .form-control {
+   margin-bottom: 24px;
+}
+
+.has-error {
+   color: #fa5c7c;
+}
+
+.contact-textarea {
+   height: 150px;
+}

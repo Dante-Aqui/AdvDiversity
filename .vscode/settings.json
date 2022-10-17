@@ -1,0 +1,19 @@
+{
+  "files.exclude": {
+    "enable-eslintrc.ps1": true,
+    "build": true,
+    "fixWebpack.js": true,
+    "gulpfile.js": true,
+    "yarn.lock": true,
+    "node_modules": true,
+    "EsLintHelper.dll": true,
+    "EsLintHelper.runtimeconfig.json": true,
+    ".eslintrc.js": false,
+    ".eslintignore": true,
+    ".gitignore": true
+  },
+  "editor.formatOnSave": true,
+ 
+}
+ 
+}

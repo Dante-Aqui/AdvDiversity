@@ -1,0 +1,12 @@
+.mentorCard {
+    border: 1px solid #dadada;
+    box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.2s;
+    width: 50%;
+    display: flex;
+    flex-direction: align-items-center;
+    margin: auto;
+    float: none;
+    align-items: normal;
+    padding: 20px;
+}
